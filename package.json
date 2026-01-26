@@ -1,5 +1,5 @@
 {
-  "name": "twitch-chat-bot",
+  "name": "roykibot",
   "version": "1.0.0",
   "description": "A chat bot for Twitch",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/royschoonderbeek/twitch-chat-bot.git"
+    "url": "git+https://github.com/royschoonderbeek/roykibot.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/royschoonderbeek/twitch-chat-bot/issues"
+    "url": "https://github.com/royschoonderbeek/roykibot/issues"
   },
-  "homepage": "https://github.com/royschoonderbeek/twitch-chat-bot#readme",
+  "homepage": "https://github.com/royschoonderbeek/roykibot#readme",
   "dependencies": {
     "dotenv": "^17.2.3",
     "tmi.js": "^1.8.5"

@@ -1,2 +1,2 @@
-# twitch-chat-bot
+# roykibot
 A chat bot for Twitch
